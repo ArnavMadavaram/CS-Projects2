@@ -1,0 +1,9 @@
+Customer Name: Arnav
+Order Details:
+Pizza 1: 10" Hand-Tossed
+Dep-Dish, 
+Pizza 2: 10" Hand-Tossed
+Deep-Dish, 
+Pizza 3: 10" Thin-Crust
+Hand-Tossed, 
+Total Cost: $30.00
