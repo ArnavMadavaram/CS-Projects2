@@ -1,0 +1,4 @@
+Account Number: ****4567
+Starting Balance: $100.00
+Amount Deposited: $324.00
+Thank you for using the ATM! Have a good day.
